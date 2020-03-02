@@ -7917,6 +7917,7 @@ zyzc9.com
 ||vimeocdn.com^
 ||cdn.sstatic.net^
 *.githubusercontent.com/*
+||pypi.org^
 
 !##### WhiteList #####
 @@dev.daohedu.com^
