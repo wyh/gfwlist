@@ -7915,6 +7915,7 @@ zyzc9.com
 *.readthedocs.io/*
 ||vuemastery.com^
 ||vimeocdn.com^
+||cdn.sstatic.net^
 
 !##### WhiteList #####
 @@dev.daohedu.com^
