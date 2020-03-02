@@ -7913,6 +7913,8 @@ zyzc9.com
 ||fonts.googleapis.com^
 *.googleapis.com/*
 *.readthedocs.io/*
+||vuemastery.com^
+||vimeocdn.com^
 
 !##### WhiteList #####
 @@dev.daohedu.com^
