@@ -7916,6 +7916,7 @@ zyzc9.com
 ||vuemastery.com^
 ||vimeocdn.com^
 ||cdn.sstatic.net^
+*.githubusercontent.com/*
 
 !##### WhiteList #####
 @@dev.daohedu.com^
