@@ -7918,6 +7918,27 @@ zyzc9.com
 ||cdn.sstatic.net^
 *.githubusercontent.com/*
 ||pypi.org^
+||vuemastery.com^
+||vimeocdn.com^
+||stackoverflow.com^
+||cdn.sstatic.net^
+*.githubusercontent.com/*
+||pypi.org^
+||github.io^
+||materialdesignicons.com^
+||cbsnews.com^
+||cnn.com^
+||vuejs.org^
+||githubassets.com^
+||iterm2.com^
+*iterm2.com/*
+||developer.mozilla.org^
+||akamaized.net^
+||morningstar.com^
+||gifter.com^
+||pc.com^
+||t.co^
+||nyti.ms^
 
 !##### WhiteList #####
 @@dev.daohedu.com^
